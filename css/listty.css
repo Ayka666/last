@@ -1,0 +1,39 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0; }
+
+.background {
+  background-image: url(../images/bg-page-title.jpg);
+  width: 100%;
+  height: 170px; }
+
+.flex-container {
+  display: flex;
+  border-color: #e5e5e5;
+  color: #848484; }
+
+.height {
+  height: 70px; }
+
+.main {
+  border-color: #e5e5e5;
+  color: #848484; }
+
+.selection {
+  height: 45px;
+  width: 100%;
+  border-color: #e5e5e5; }
+
+.container.first {
+  color: black;
+  text-decoration-line: none; }
+
+.col-md-1 .home {
+  color: black; }
+
+.col-md-1 .home:hover {
+  color: blue; }
+
+/*# sourceMappingURL=listty.css.map */

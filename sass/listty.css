@@ -1,0 +1,47 @@
+html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+}
+.background {
+	background-image: url(../images/bg-page-title.jpg);
+	width:100%;
+	height: 170px;
+}
+.flex-container {
+  display: flex;
+  border-color: #e5e5e5;
+color: #848484;
+}
+.height {
+	height: 70px;
+}
+.main {
+	border-color: #e5e5e5;
+color: #848484;
+}
+.selection {
+	height: 45px;
+	width: 100%;
+	border-color: #e5e5e5
+}
+a:hover {
+	text-decoration-line: none !important;
+}
+.col-md-1.first{
+	color: black;
+	text-decoration: none;
+}
+.col-md-1.first:hover{
+
+}
+.hide {
+	overflow: hidden;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: column;
+ 
+ }	
